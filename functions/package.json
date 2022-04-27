@@ -19,7 +19,8 @@
     "firebase-functions": "^3.3.0",
     "puppeteer": "^10.4.0",
     "request": "^2.88.2",
-    "request-promise": "^4.2.6"
+    "request-promise": "^4.2.6",
+    "cors": "^2.8.5"
   },
   "devDependencies": {
     "eslint": "^7.6.0",
